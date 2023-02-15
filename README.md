@@ -21,7 +21,8 @@ Connect Four is a two-player strategy game where the objective is to connect fou
 2.	How will game data, such as saved games or player statistics, be stored and managed on the device?
 3.	
 4)
-           Use age should be 9 or more than that. 
+
+Use age should be 9 or more than that. 
 
 5)
  
